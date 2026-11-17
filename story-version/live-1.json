@@ -14,10 +14,11 @@
     "battery": 15,
     "vibrate": true,
     "finale": false,
-    "storyStartMs": 25000,
+    "storyStartMs": 4000,
     "callSound": true,
     "pace": 1.6,
-    "backdate": true
+    "backdate": true,
+    "background": true
   },
   "lock": {
     "title": "⭐⭐⭐⭐⭐",
@@ -25,14 +26,6 @@
     "unlockHint": "اسحب لفوق للفتح",
     "unlockSmall": "أو اضغط هنا",
     "notifications": [
-      {
-        "app": "app:photos",
-        "open": "app:photos",
-        "title": "قروب الدوام ( بدون المدير )",
-        "body": "يعيال هجت",
-        "time": "الآن",
-        "k": "ln28jw"
-      },
       {
         "app": "app:phone",
         "open": "app:photos",
